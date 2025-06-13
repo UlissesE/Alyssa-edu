@@ -45,7 +45,7 @@ header {
     background: inherit;
     background-image: url('../imgs/presentes.png');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     opacity: 0.5;
     z-index: 1;
@@ -75,7 +75,7 @@ header {
     background: inherit;
     background-image: url('../imgs/viagens.png');
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     opacity: 0.5;
     z-index: 1;
